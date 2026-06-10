@@ -619,12 +619,12 @@ MonoBehaviour:
   _ellipsoidOverride: {fileID: 0}
   _originPlacement: 1
   _originAuthority: 0
-  _latitude: 35.138104
-  _longitude: 33.35049
+  _latitude: 35.173718
+  _longitude: 33.365039
   _height: 172
-  _ecefX: 4361861.032389653
-  _ecefY: 2870712.621295314
-  _ecefZ: 3650505.948157198
+  _ecefX: 4359231.777268248
+  _ecefY: 2870568.865176195
+  _ecefZ: 3653736.440541366
   _scale: 1
 --- !u!4 &935301003
 Transform:

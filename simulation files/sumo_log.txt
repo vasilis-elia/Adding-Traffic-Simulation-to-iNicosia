@@ -1,0 +1,32 @@
+***Starting server on port 53455 ***
+Loading net-file from 'nicosia.net.xml' ... done (44ms).
+Loading done.
+Simulation started with time: 0.00.
+Warning: No connection between edge '25520985#3' and edge '-6113850' found.
+Warning: No connection between edge '6113890#1' and edge '53369392#0' found.
+Warning: No connection between edge '14330039#2' and edge '528250421' found.
+Warning: No connection between edge '-537835209' and edge '25520985#7' found.
+Warning: No connection between edge '25520985#4' and edge '21830618' found.
+Warning: No connection between edge '530780509' and edge '53369392#0' found.
+Warning: No connection between edge '1355502044#0' and edge '537756461#2' found.
+Warning: No connection between edge '25520985#2' and edge '6113911#2' found.
+Simulation ended at time: 8.80.
+Performance:
+ Duration: 16.58s
+ TraCI-Duration: 14.77s
+ Real time factor: 0.530696
+ UPS: 198.407912
+ UPS-Persons: 900.072368
+Vehicles:
+ Inserted: 20
+ Running: 20
+ Waiting: 0
+Persons:
+ Inserted: 150
+ Running: 150
+DijkstraRouter answered 28 queries and explored 76.36 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.07ms on average).
+DijkstraRouter answered 466 queries and explored 11.95 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.01ms on average).
+DijkstraRouter answered 150 queries and explored 1135.31 edges on average.
+DijkstraRouter spent 0.04s answering queries (0.23ms on average).

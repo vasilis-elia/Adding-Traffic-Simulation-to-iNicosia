@@ -1,0 +1,8 @@
+Warning: No connection between edge '25520985#3' and edge '-6113850' found.
+Warning: No connection between edge '6113890#1' and edge '53369392#0' found.
+Warning: No connection between edge '14330039#2' and edge '528250421' found.
+Warning: No connection between edge '-537835209' and edge '25520985#7' found.
+Warning: No connection between edge '25520985#4' and edge '21830618' found.
+Warning: No connection between edge '530780509' and edge '53369392#0' found.
+Warning: No connection between edge '1355502044#0' and edge '537756461#2' found.
+Warning: No connection between edge '25520985#2' and edge '6113911#2' found.
