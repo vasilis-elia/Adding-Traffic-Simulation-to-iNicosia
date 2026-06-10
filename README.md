@@ -24,7 +24,8 @@ Run the traffic simulation using:
 
 ```bash
 python sumo_simulation.py
+```
 
 ### 2. Run the Unity Project
-A Cesium access token is required for streaming the Digital Twin assets
+
 Press Play after opening the Scene in /Scenes
