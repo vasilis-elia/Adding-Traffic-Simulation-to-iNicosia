@@ -1,5 +1,5 @@
 # Adding Traffic Simulation to the Digital Twin of Nicosia (iNicosia)
-Bachelor's Thesis Project
+Bachelor Thesis Project
 
 ## Overview
 This project extends the iNicosia digital twin by integrating a traffic simulation using SUMO and visualizing it in Unity with Cesium for Unity. It simulates traffic flow for a selected area of Nicosia and renders it in a geospatial 3D environment.
