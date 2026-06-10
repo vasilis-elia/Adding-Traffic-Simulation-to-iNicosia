@@ -1,0 +1,19 @@
+<configuration>
+
+    <input>
+        <net-file value="nicosia.net.xml"/>
+        <route-files value=""/>
+    </input>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+        <collision.check-junctions value="true"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+        <log value="sumo_log.txt"/>
+        <error-log value="sumo_error.txt"/>
+    </report>
+
+</configuration>
