@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2259989080609928101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7135991332332359103}
+  - component: {fileID: 8396266625148851244}
+  - component: {fileID: 4453857546313201636}
+  m_Layer: 0
+  m_Name: SumoReceiver
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7135991332332359103
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2259989080609928101}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8396266625148851244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2259989080609928101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c36621368d98849b241e487565cb1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SumoReceiver
+--- !u!114 &4453857546313201636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2259989080609928101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38c5fdccd9a6cf6458a85b6ac1c7e259, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TrafficSimulator
+  vehiclePrefab: {fileID: 3305822028592652648, guid: 12c6cbec98a28d14992d8216cdc99ee1, type: 3}
+  pedestrianPrefab: {fileID: 650265575734848765, guid: c526c8378885bfa428e78cbd4fe4d8f3, type: 3}
+  simulatedCar: {fileID: 0}
+  targetPosition: {fileID: 0}
+  runCalibration: 0
+  interpolationDelay: 1.5
+  vehicleRotationSpeed: 8
+  pedestrianRotationSpeed: 4
+  xOffset: 417.3115
+  yPosition: 2.76
+  zOffset: 426.5997
